@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
- A Tic-Tac-Toe android application
+ An Android application developed using Kotlin
